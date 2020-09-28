@@ -1,0 +1,17 @@
+{
+  "name": "Tiscod",
+  "short_name": "Tiscod",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Uplifting businesses!",
+  "icons": [{
+    "src": "assets/img/favicon.ico",
+    "sizes": "48x48",
+    "type": "image/ico"
+  }],
+  "related_applications": [{
+    "platform": "play",
+    "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
+  }]
+}
